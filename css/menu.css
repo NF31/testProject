@@ -1,0 +1,15 @@
+/* Style de l'interface de démarrage */
+/* Sélection joueur, difficulté, niveaux */
+
+#menu {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#menu h1 {
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+}

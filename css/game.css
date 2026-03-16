@@ -1,0 +1,21 @@
+/* Styles du jeu */
+/* Obstacles, joueur, zone de jeu */
+
+#game-container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+#game-canvas {
+    display: block;
+    background: #87CEEB;
+}
+
+#scoreboard {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
